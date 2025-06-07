@@ -1,0 +1,58 @@
+[
+    {
+        "id": 13,
+        "name": "Alimento para hámsters",
+        "description": "Mezcla de semillas, granos y frutas secas.",
+        "price": 8.99,
+        "image": "images/h1.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Rueda de ejercicio silenciosa",
+        "description": "Rueda que no hace ruido para ejercicio nocturno.",
+        "price": 19.99,
+        "image": "images/h2.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Casa de madera",
+        "description": "Pequeña casa para esconderse y dormir.",
+        "price": 12.99,
+        "image": "images/h3.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Túnel de plástico",
+        "description": "Set de túneles para explorar y jugar.",
+        "price": 14.99,
+        "image": "images/h4.webp"
+    },
+    {
+        "id": 29,
+        "name": "Comedero de cerámica",
+        "description": "Pesa lo suficiente para no volcarse fácilmente.",
+        "price": 5.99,
+        "image": "images/h5.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Columpio para jaula",
+        "description": "Divierte a tu hámster con este columpio seguro.",
+        "price": 7.99,
+        "image": "images/h6.webp"
+    },
+    {
+        "id": 31,
+        "name": "Snacks naturales",
+        "description": "Golosinas saludables para premiar a tu mascota.",
+        "price": 4.99,
+        "image": "images/h7.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Kit de limpieza",
+        "description": "Incluye cepillo, pala y productos de limpieza seguros.",
+        "price": 11.99,
+        "image": "images/h8.webp"
+    }
+]
