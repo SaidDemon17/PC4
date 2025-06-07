@@ -15,7 +15,7 @@ function ContactoSection() {
     };
 
     const handleSubmit = async (e) => {
-        e.preventDefault();A
+        e.preventDefault();
         
         try {
             // Reemplaza con tu URL de webhook de Make
@@ -45,6 +45,7 @@ function ContactoSection() {
             alert('Hubo un problema al enviar el formulario. Por favor intenta nuevamente.');
         }
     };
+
     return (
         <div>
             <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-blue-800">Contacto</h2>
